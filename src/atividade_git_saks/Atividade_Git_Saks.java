@@ -7,6 +7,7 @@ package atividade_git_saks;
 /**
  *
  * @author Mohalk
+public class Atividade_Git_Saks {
  */
 public class Atividade_Git_Saks {
 
